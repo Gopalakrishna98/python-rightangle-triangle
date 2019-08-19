@@ -1,0 +1,22 @@
+for i in range(10):                                                          
+    print()                                                                      
+    for j in range (i):                                                          
+         print('*',end=" ")
+         
+         
+# reverse right angle triangle
+for i in range(10):                                                          
+    print()                                                                      
+    for j in range (10-i):                                                          
+         print('*',end=" ")
+         
+         
+ # pyramid shape using python
+ for i in range(10):                                                          
+    print()                                                                      
+    for j in range (i):                                                          
+        print('*',end=" ")
+ for i in range(10):                                                          
+    print()                                                                      
+    for j in range (10-i):                                                          
+         print('*',end=" ")
